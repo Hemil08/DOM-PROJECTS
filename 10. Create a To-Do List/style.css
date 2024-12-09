@@ -1,0 +1,11 @@
+ul li{
+    position: relative;
+    list-style-type:none;
+}
+
+
+.completed{
+    text-decoration: line-through;
+}
+
+

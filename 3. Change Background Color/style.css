@@ -1,0 +1,22 @@
+#div{
+    display: block;
+}
+
+body{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+
+#changeBgButton{
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 14px;
+}
+
+#changeBgButton:hover{
+    cursor: pointer;
+}
